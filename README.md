@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hiiiiiiiii ⚡
+### Hi😄
 [![Bogyeong's GitHub status](https://github-readme-stats.vercel.app/api?username=bbokyoung)](https://github.com/bbokyoung/github-readme-stats)
